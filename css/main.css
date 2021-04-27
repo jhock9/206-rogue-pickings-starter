@@ -185,6 +185,7 @@ footer span {
 		border-left: 1px solid #eee;
 		border-right: 1px solid #eee;
 	}
+}
 
 @media all and (min-width: 1200px) {
 	/*Desktop styles here*/
